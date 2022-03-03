@@ -1,11 +1,11 @@
 # RNWhatsAppStickers
 ## Getting started
 
-`$ npm install react-native-whatsapp-stickers --save`
+`$ npm install react-native-wa-stickers-animated`
 
 or
 
-`$ yarn add react-native-whatsapp-stickers`
+`$ yarn add react-native-wa-stickers-animated`
 
 ## Integration
 
