@@ -7,6 +7,9 @@ or
 
 `$ yarn add react-native-wa-stickers-animated`
 
+This package is modified version of react-native-whatsapp-sticker-dyanamic.
+Wait for me to update README.md for animated stickers. peace!!
+
 ## Integration
 
 For React Native versions < 0.60 use version 1.+ of this library and checkout the corresponding README file.
