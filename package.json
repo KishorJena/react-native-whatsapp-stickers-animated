@@ -1,5 +1,5 @@
 {
-  "name": "@kishorjena/react-native-wa-stickers-animated",
+  "name": "react-native-wa-stickers-animated",
   "version": "2.0.2",
   "description": "create sticker packs for whatsapp with your react-native app",
   "main": "index.js",
@@ -32,10 +32,10 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
-    "prettier": "^1.15.2"
+    "prettier": "^2.5.1"
   },
   "bugs": {
-    "url": "https://github.com/Jobeso/react-native-whatsapp-stickers/issues"
+    "url": "https://github.com/CrackerKSR/react-native-whatsapp-animated-stickers/issues"
   },
-  "homepage": "https://github.com/Jobeso/react-native-whatsapp-stickers#readme"
+  "homepage": "https://github.com/CrackerKSR/react-native-whatsapp-animated-stickers#readme"
 }
