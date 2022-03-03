@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:3:1-40
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:5:1-76
+	android:name
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:5:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:6:1-77
+	android:name
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:6:18-74
+application
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:7:1-25:15
+provider#com.jobeso.RNWhatsAppStickers.StickerContentProvider
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:8:5-23:12
+	android:readPermission
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:14:9-59
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:9:9-52
+	android:enabled
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:12:9-31
+	android:authorities
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:11:9-70
+	android:exported
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:10:9-47
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:20:5-22:46
+	android:resource
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:21:9-59
+uses-sdk
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml

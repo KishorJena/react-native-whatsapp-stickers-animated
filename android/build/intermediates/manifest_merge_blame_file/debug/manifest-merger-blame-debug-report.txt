@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jobeso.RNWhatsAppStickers" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="23" />
+7-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+9-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:5:1-76
+9-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:5:18-73
+10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+10-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:6:1-77
+10-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:6:18-74
+11
+12    <application>
+12-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:7:1-25:15
+13        <provider
+13-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:8:5-23:12
+14            android:name="com.jobeso.RNWhatsAppStickers.StickerContentProvider"
+14-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:10:9-47
+15            android:authorities="${applicationId}.stickercontentprovider"
+15-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:11:9-70
+16            android:enabled="true"
+16-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:12:9-31
+17            android:exported="true"
+17-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:13:9-32
+18            android:readPermission="com.whatsapp.sticker.READ"
+18-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:14:9-59
+19            android:requestLegacyExternalStorage="true" >
+19-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:9:9-52
+20
+21            <!--
+22    <provider
+23    android:name="androidx.core.content.FileProvider"
+24    android:authorities="${applicationId}.fileprovider"
+25    android:exported="false"
+26    android:grantUriPermissions="true">
+27            -->
+28            <meta-data
+28-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:20:5-22:46
+29                android:name="android.support.FILE_PROVIDER_PATHS"
+29-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:21:9-59
+30                android:resource="@xml/file_paths" />
+30-->C:\Users\ADMIN\Desktop\RN\app1_r\app1_ readme\node_modules\react-native-whatsapp-stickers\android\src\main\AndroidManifest.xml:22:9-43
+31        </provider>
+32    </application>
+33
+34</manifest>

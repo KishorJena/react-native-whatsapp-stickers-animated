@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JVips">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/JVips.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
