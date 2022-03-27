@@ -1,7 +1,7 @@
 {
   "name": "react-native-wa-stickers-animated",
   "version": "2.0.6",
-  "description": "create sticker packs for whatsapp with your react-native app",
+  "description": "create sticker packs for whatsapp with your react-native app. Supports animated sticker dyanamiclly pack creation",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,9 +16,9 @@
     "sticker",
     "stickers",
     "stickerpack",
-    "pack"	
-	 "animated"
-	 "dyanammic"
+    "pack", 
+    "animated",
+    "dyanammic"
   ],
   "author": "Johannes Sorg <johannes@sorg.me>",
   "license": "UNLICENSED",
