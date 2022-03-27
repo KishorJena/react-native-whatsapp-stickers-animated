@@ -8,7 +8,27 @@ or
 `$ yarn add react-native-wa-stickers-animated`
 
 This package is modified version of react-native-whatsapp-sticker-dyanamic.
-Wait for me to update README.md for animated stickers. peace!!
+
+- I have added animated sticker support (see whatsapp requirement)
+- You can pick images from your storage at runtime.
+- To Update the sticker pack with new images simply change increase the version number of sticker pack
+- You can't mix static and animated in same sticker pack. there is boolean flag to tell whatsapp if the pack is animated or static
+
+I can't write the whole instruction due to schedule but I will update this Readme and clean the code asap
+Also I am trying to add convertion methods so that user can pic any common file format and this module will fix the size acccording to whastapp requirement. Users have Gif or animated files and decoding frames of these formats is not easy like static files so it taking time as I am not noob in java but still trying hard to implement must have function. There is no other RN modules right now which supports animated dyanamic and resizing all in one. 
+
+Feel free to discuss with me Twitter - @heyKSR
+
+Read the instruction below and you have to add these new properties to the old config
+``` js
+  {
+       image_data_version : // To update existing pack increase the version
+        avoid_cache : bool 
+        animated_sticker_pack : bool // true for animated false for static
+  },
+````
+
+Below is instruction by react-native-whatsapp-sticker-dyanamic.
 
 ## Integration
 
