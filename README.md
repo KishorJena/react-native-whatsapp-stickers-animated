@@ -1,6 +1,8 @@
 # RNWhatsAppStickers
 ## Getting started
 
+Documentation here does not match with the module. I did not update the readme file.
+
 `$ npm install react-native-wa-stickers-animated`
 
 or
