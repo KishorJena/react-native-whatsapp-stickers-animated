@@ -1,7 +1,7 @@
 # RNWhatsAppStickers
 ## Getting started
 
-Documentation here does not match with the module. I did not update the readme file.
+
 
 `$ npm install react-native-wa-stickers-animated`
 
@@ -29,7 +29,7 @@ Read the instruction below and you have to add these new properties to the old c
         animated_sticker_pack : bool // true for animated false for static
   },
 ````
-
+Documentation here does not match with the module. I did not update the readme file.
 Below is instruction by react-native-whatsapp-sticker-dyanamic.
 
 ## Integration
